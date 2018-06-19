@@ -1,0 +1,6 @@
+framework module Pods_Ball_in_CupUITests {
+  umbrella header "Pods-Ball in CupUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
